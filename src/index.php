@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./css/style.css">
-    <title>Change Words</title>
+    <title>Troca Palavras</title>
 </head>
 <body>    
     <header>
@@ -32,12 +32,11 @@
         <h2>Bem-Vindo</h2>
         <p>Ao inserir a substituição de alguma palavra, por favor insira com todas as características. Exemplo: "Informação", não digite 'informacao'</p>
     </aside>
-
     </main>
     
     <footer>
         <p>Copyrigth &copy; Arthur Martins</p>
     </footer>
-                
+
 </body>
 </html>
